@@ -40,7 +40,7 @@ Data analyst with a startup background and passion for technology, learning, and
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kokolipa&" alt="kokolipa" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kokolipa&" alt="kokolipa" width="250" />
 </p>
 <p>
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kokolipa&show_icons=true&locale=en" alt="kokolipa" />
