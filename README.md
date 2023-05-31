@@ -9,12 +9,6 @@ I am currently studying data analytics at Monash University, and through self-le
 <img align="right" alt="EDA-gif" width="430" src="https://miro.medium.com/v2/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
 
 
-- 🌱 I’m currently up-skilling my analysis capabilities at **Monash University**
-
-- 💬 Ask me about **Pandas, NumPy, Jupyter, Excel**
-
-- 📫 How to reach me **galbeeri1@gmail.com**
-
 <p> &nbsp;</p>
 
 <h3 align="left">Connect with me:</h3>
@@ -24,6 +18,14 @@ I am currently studying data analytics at Monash University, and through self-le
 <a href="https://www.kaggle.com/galbeeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gal beeri" height="30" width="40" /></a>
 <a href="https://discord.gg/Kokolipa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kokolipa" height="30" width="40" /></a>
 </p>
+
+- 🌱 I’m currently up-skilling my analysis capabilities at **Monash University**
+
+- 💬 Ask me about **Pandas, NumPy, Jupyter, Excel**
+
+- 📫 How to reach me **galbeeri1@gmail.com**
+
+
 
 <p> &nbsp;</p>
 
