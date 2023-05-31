@@ -9,7 +9,6 @@ I am currently studying data analytics at Monash University, and through self-le
 <img align="right" alt="EDA-gif" width="430" src="https://miro.medium.com/v2/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
 
 
-<p> &nbsp;</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
