@@ -36,7 +36,7 @@ Data analyst with a startup background and passion for technology, learning, and
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokolipa&show_icons=true&locale=en&layout=compact" alt="kokolipa" width="450"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokolipa&show_icons=true&locale=en&layout=compact" alt="kokolipa"/>
 </p>
 
 <p>
