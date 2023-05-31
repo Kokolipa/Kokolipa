@@ -1,9 +1,8 @@
 <h1 align="center">Hi  👋 ,  I'm Gal Beeri</h1>
 
 ### About Me:
---- 
 Data analyst with a startup background and passion for technology, learning, and helping others. I spent the last 1.5 years as the Head of Customer Success and Chief Operating Officer of disability FinTech startup, SpendAble. I am currently studying data analytics at Monash University, and through self-learning, I developed skills and have experience with MySQL, Python, Power BI, Excel - data models, pivot tables, advanced functions, power query (M language), DAX, JQL, and terminal. This has furthered my desire to pursue a career in data analysis,  to improve business processes and achieve results for clients.
-
+---
 <img align="right" alt="EDA-gif" width="430" src="https://miro.medium.com/v2/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
 
 
