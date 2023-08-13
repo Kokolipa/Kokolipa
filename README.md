@@ -39,6 +39,8 @@ I am currently studying data analytics at Monash University, and through self-le
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+    <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
+    <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.outsavvy.com%2Fdeveloper&psig=AOvVaw0BZY8qlOQ_GpDLPOQXR2eo&ust=1691976908656000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOi3yaa_2IADFQAAAAAdAAAAABAE" target="_blank" rel="noreferrer"> <img src="https://cdn.outsavvy.com/website/api.png" alt="scipy" width="40" height="40"/> </a>
 </p>
 
 <p> &nbsp;
