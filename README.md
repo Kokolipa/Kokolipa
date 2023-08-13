@@ -41,7 +41,7 @@ I am currently studying data analytics at Monash University, and through self-le
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
     <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" width="50" height="40"/> </a>
-    <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLite" width="50" height="40"/> </a>
+    <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLite" width="70" height="40"/> </a>
 </p>
 
 <p> &nbsp;
