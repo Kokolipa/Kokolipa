@@ -52,8 +52,8 @@ I am currently studying data analytics at Monash University, and through self-le
 
 ##### Visualisation tools
 <p &nbsp; align="left"> 
-    <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4hzOS5W2J2PjB4JssJDrmx1b7xFn0yt0uCw&usqp=CAU" alt="PowerBI" width="50" height="40"/> </a>
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpwbJ2LiaR2NxEDO1PX6OOBJM1UGovi4toQ&usqp=CAU" alt="Tableau" width="70" height="40"/> </a>
+    <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4hzOS5W2J2PjB4JssJDrmx1b7xFn0yt0uCw&usqp=CAU" alt="PowerBI" width="65" height="40"/> </a>
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpwbJ2LiaR2NxEDO1PX6OOBJM1UGovi4toQ&usqp=CAU" alt="Tableau" width="85" height="40"/> </a>
     <br>
     <a href="https://plotly.com/dash/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1200/1*TFyuPnhE9tGKJ7FmJkUnDA.png" alt="Dash-Plotly" width="50" height="40"/> </a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo_light.svg" alt="matplotlib" width="40" height="40"/> </a>
