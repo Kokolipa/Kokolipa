@@ -35,6 +35,7 @@ I am currently studying data analytics at Monash University, and through self-le
 ##### Analaysis, Machine Learning, Math, and Database Libraries & tools
 <p &nbsp; align="left"> 
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+    <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" alt="PySpark" width="40" height="40"/> </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
     <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="sk-learn" width="60" height="40"/> </a>
     <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
