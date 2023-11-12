@@ -44,7 +44,7 @@ I am currently studying data analytics at Monash University, and through self-le
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" width="60" height="40"/> </a>
-    <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLalchemy" width="70" height="40"/> </a>
+    <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLalchemy" width="80" height="40"/> </a>
     <a href="https://www.prolydian.com/features/application-programming-interface-api" target="_blank" rel="noreferrer"> <img src="https://www.prolydian.com/sites/default/files/2020-12/api.png" alt="APIs" width="40" height="40"/> </a>
 </p>
 
