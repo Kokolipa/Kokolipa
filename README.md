@@ -82,7 +82,7 @@ I am currently studying data analytics at Monash University, and through self-le
 </p>
 
 <p>  &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kokolipa&show_icons=true&theme=radical&locale=en" alt="kokolipa" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kokolipa&show_icons=true&theme=radical&locale=en&hide=issues, contribs" alt="kokolipa" />
 </p>
 
 </div>
