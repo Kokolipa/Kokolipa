@@ -1,4 +1,7 @@
-<details open="" style="background-color: #211734; color: #ffffff; padding: 10px;">
+
+<h1 align="center">Hi  👋 ,  I'm Gal Beeri</h1>
+
+<div style="background-color: #000000; color: #ffffff; padding: 10px;">
 
 ### About Me:
 Data analyst with a startup background and passion for technology, learning, and helping others. I spent the last 1.5 years as the Head of Customer Success and Chief Operating Officer of disability FinTech startup, SpendAble. 
@@ -82,4 +85,5 @@ I am currently studying data analytics at Monash University, and through self-le
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kokolipa&show_icons=true&theme=radical&locale=en" alt="kokolipa" />
 </p>
 
-</details>
+</div>
+
