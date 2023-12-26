@@ -1,3 +1,17 @@
+Copy code
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: #211734;
+            color: #ffffff; /* Set text color to contrast with the background */
+        }
+    </style>
+</head>
+
+<body>
 <h1 align="center">Hi  👋 ,  I'm Gal Beeri</h1>
 
 ### About Me:
@@ -72,6 +86,10 @@ I am currently studying data analytics at Monash University, and through self-le
 <p> &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokolipa&show_icons=true&theme=radical&locale=en&layout=compact" alt="kokolipa" />
 </p>
+
+</body>
+
+</html>
 
 <p> &nbsp;
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kokolipa&theme=radical" alt="kokolipa" width="450" />
