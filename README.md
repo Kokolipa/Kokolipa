@@ -1,8 +1,8 @@
-<div style="background-color: #ffffff; color: #ffffff; padding: 10px;">
-<!-- #211734 -->
 
 <h1 align="center">Hi  👋 ,  I'm Gal Beeri</h1>
 
+<div style="background-color: #ffffff; color: #ffffff; padding: 10px;">
+<!-- #211734 -->
 ### About Me:
 Data analyst with a startup background and passion for technology, learning, and helping others. I spent the last 1.5 years as the Head of Customer Success and Chief Operating Officer of disability FinTech startup, SpendAble. 
 #####
