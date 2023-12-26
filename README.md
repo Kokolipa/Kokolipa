@@ -76,7 +76,6 @@ I am currently studying data analytics at Monash University, and through self-le
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokolipa&show_icons=true&theme=radical&locale=en&layout=compact" alt="kokolipa" />
 </p>
 
-</div>
 
 <p> &nbsp;
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kokolipa&theme=radical" alt="kokolipa" width="450" />
@@ -86,4 +85,5 @@ I am currently studying data analytics at Monash University, and through self-le
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kokolipa&show_icons=true&theme=radical&locale=en" alt="kokolipa" />
 </p>
 
+</div>
 
