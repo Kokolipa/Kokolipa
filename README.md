@@ -70,7 +70,7 @@ I am currently studying data analytics at Monash University, and through self-le
 
 
 <p> &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokolipa&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kokolipa" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokolipa&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kokolipa" />
 </p>
 
 <p> &nbsp;
