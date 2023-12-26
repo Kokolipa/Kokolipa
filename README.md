@@ -1,4 +1,5 @@
-<div style="background-color: #211734; color: #ffffff; padding: 10px;">
+<div style="background-color: #ffffff; color: #ffffff; padding: 10px;">
+<!-- #211734 -->
 
 <h1 align="center">Hi  👋 ,  I'm Gal Beeri</h1>
 
