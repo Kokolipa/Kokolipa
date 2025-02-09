@@ -4,9 +4,8 @@
 <div style="background-color: #000000; color: #ffffff; padding: 10px;">
 
 ### About Me:
-Data analyst with a startup background and passion for technology, learning, and helping others. I spent the last 1.5 years as the Head of Customer Success and Chief Operating Officer of disability FinTech startup, SpendAble. 
-#####
-I am currently studying data analytics at Monash University, and through self-learning, I developed skills and have experience with MySQL, Python, Power BI, Excel - data models, pivot tables, advanced functions, power query (M language), DAX, JQL, and terminal. This has furthered my desire to pursue a career in data analysis,  to improve business processes and achieve results for clients.
+Forward-thinking Data Scientist with experience in machine learning, LLMs, and cloud-based data platforms. Skilled in using AWS, Python, SQL, Power BI, and cutting-edge AI techniques to design and implement scalable, data-driven solutions that solve complex problems. Results-oriented and passionate about empowering organisations to make data-driven decisions that drive business success. 
+
 #####
 ----
 <img align="right" alt="EDA-gif" width="430" src="https://miro.medium.com/v2/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
@@ -23,7 +22,7 @@ I am currently studying data analytics at Monash University, and through self-le
 
 - 🌱 I’m currently up-skilling my analysis capabilities at **Monash University**
 
-- 💬 Ask me about **Pandas, NumPy, Jupyter, Excel**
+- 💬 Ask me about **LLMs, ML, and effective visualisations strategies**
 
 - 📫 How to reach me **galbeeri1@gmail.com**
 
@@ -36,6 +35,17 @@ I am currently studying data analytics at Monash University, and through self-le
 * Bash 
 * DAX
 * VBA
+
+#### Cloud Platforms
+<p &nbsp; align="left"> 
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/300px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer"> <img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming-old-version/Fabric_final_x256.png" alt="ms-fabric" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1816856437567406080/ByISu1ft_400x400.jpg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/09/MLflow-logo.png" alt="mlflow" width="40" height="40"/> </a>
+    <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"> <img src="https://ph-files.imgix.net/fdd9fe94-4a2d-4f8c-87c6-0d25bf25b8fe.png?auto=format" alt="langsmith" width="40" height="40"/> </a>
+</p>
+
+
 
 #### Analaysis, Machine Learning, Math, and Database Libraries & tools
 <p &nbsp; align="left"> 
