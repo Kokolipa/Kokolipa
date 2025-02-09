@@ -6,7 +6,7 @@
 ### About Me:
 Forward-thinking Data Scientist with experience in machine learning, LLMs, and cloud-based data platforms. Skilled in using AWS, Python, SQL, Power BI, and cutting-edge AI techniques to design and implement scalable, data-driven solutions that solve complex problems. Results-oriented and passionate about empowering organisations to make data-driven decisions that drive business success. 
 #####
-#### Technical Skills:
+#### Technical Knowledge:
 * **Machine Learning**: Regression, Classification, Unsupervised Clustering, Decision Trees, Boosting, Random Forest, Support Vector Classifier, Anomaly Detection
 * **GenAI**: Agents (ReAct, Router, Multi-Agents, Conversational) LLMs (PEFT, LoRA, Summarisation, Prompt Eng.) RAG (Multi-source, Self-RAG, Self-query), NLP-based solutions
 #####
@@ -87,7 +87,8 @@ Forward-thinking Data Scientist with experience in machine learning, LLMs, and c
     <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2023/11/Confluence-Logo-500x281.png" alt="confluence" width="40" height="40"/> </a>
 </p>
 
-
+#### 
+#### 
 <p> &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokolipa&show_icons=true&theme=radical&locale=en&layout=compact" alt="kokolipa" />
 </p>
