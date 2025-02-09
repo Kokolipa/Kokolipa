@@ -5,7 +5,10 @@
 
 ### About Me:
 Forward-thinking Data Scientist with experience in machine learning, LLMs, and cloud-based data platforms. Skilled in using AWS, Python, SQL, Power BI, and cutting-edge AI techniques to design and implement scalable, data-driven solutions that solve complex problems. Results-oriented and passionate about empowering organisations to make data-driven decisions that drive business success. 
-
+#####
+#### Technical Skills:
+* **Machine Learning**: Regression, Classification, Unsupervised Clustering, Decision Trees, Boosting, Random Forest, Support Vector Classifier, Anomaly Detection
+* **GenAI**: Agents (ReAct, Router, Multi-Agents, Conversational) LLMs (PEFT, LoRA, Summarisation, Prompt Eng.) RAG (Multi-source, Self-RAG, Self-query), NLP-based solutions
 #####
 ----
 <img align="right" alt="EDA-gif" width="430" src="https://miro.medium.com/v2/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
@@ -81,6 +84,7 @@ Forward-thinking Data Scientist with experience in machine learning, LLMs, and c
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+    <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2023/11/Confluence-Logo-500x281.png" alt="confluence" width="40" height="40"/> </a>
 </p>
 
 
