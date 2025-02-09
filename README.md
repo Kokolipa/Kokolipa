@@ -57,12 +57,12 @@ Forward-thinking Data Scientist with experience in machine learning, LLMs, and c
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="60" height="40"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v9d8458b4d932582248eb0dcdffdc6a8fe4b6994060b14993d6b364721b7e870f/tensorflow/images/lockup.svg" alt="tensorflow" width="60" height="40"/> </a>
     <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="PySpark" width="50" height="40"/> </a>
-    <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
-    <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noreferrer"> <img src="https://docs.pydantic.dev/latest/logo-white.svg" alt="Pydantic" width="40" height="40"/> </a>
-    <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/stable/_static/pytest1.png" alt="Pytest" width="40" height="40"/> </a>
     <br>
     <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLalchemy" width="80" height="40"/> </a>
     <a href="https://www.microsoft.com/en-au/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> </a>
+    <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
+    <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noreferrer"> <img src="https://docs.pydantic.dev/latest/logo-white.svg" alt="Pydantic" width="40" height="40"/> </a>
+    <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/stable/_static/pytest1.png" alt="Pytest" width="40" height="40"/> </a>
 </p>
 
 #### Visualisation tools
