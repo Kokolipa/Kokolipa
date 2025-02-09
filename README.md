@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi  👋 ,  I'm Gal Beeri</h1>
+<h1 align="center">Hi  👋   I'm Gal Beeri</h1>
 
 <div style="background-color: #000000; color: #ffffff; padding: 10px;">
 
